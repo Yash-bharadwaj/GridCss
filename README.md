@@ -23,4 +23,6 @@ Mail Me: yashwanthmantha1@gmail.com
 <img width="1363" alt="Screenshot 2023-06-22 at 21 36 56" src="https://github.com/Yash-bharadwaj/GridCss/assets/86095452/babe385d-dd1c-4f45-a043-6cc6bdeb1a1f">
 
 
-Enjoy showcasing your concepts with the concept grid!
+
+
+Enjoy showcasing My Concept . 
